@@ -1,6 +1,10 @@
-https://github.com/TomJinW/PKMN_GSCHS
+项目地址[https://github.com/TomJinW/PKMN_GSCHS](https://github.com/TomJinW/PKMN_GSCHS)
 
-**在开始之前：如果你是玩家的话，请直接翻到最下面查阅包括游戏中如何输入部分中文、如何重置时钟时间等关键信息。**
+**如果游戏中有任何问题 可以在 Github Issue 板块反馈**
+
+**在开始之前：如果你是玩家的话，下面的链接包含了输入中文的转换工具，以及部分用于时钟重置的工具**
+
+[https://tomjinw.github.io/convert/](https://tomjinw.github.io/convert/)
 
 # 宝可梦·金 / 宝可梦·银 中文汉化 by Tom_C
 
@@ -87,7 +91,7 @@ https://github.com/TomJinW/PKMN_GSCHS
 
 - 与 Game Boy 打印机联动：不支持，韩版游戏完全删除了这个功能。
 
-- 有一个很奇怪的事情就是韩版「宝可梦金·银」不会记录连线对战胜负情况，我试了一下原版就这样，所以应该不是我汉化的问题。
+- 有一个很奇怪的事情就是有的时候韩版「宝可梦金·银」不会记录连线对战胜负情况，我试了一下原版就这样，所以应该不是我汉化的问题。
 
 ## 关于中文输入和时钟重置
 
