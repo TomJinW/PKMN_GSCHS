@@ -1,6 +1,6 @@
-项目地址[https://github.com/TomJinW/PKMN_GSCHS](https://github.com/TomJinW/PKMN_GSCHS)
+项目地址：[https://github.com/TomJinW/PKMN_GSCHS](https://github.com/TomJinW/PKMN_GSCHS)
 
-**如果游戏中有任何问题 可以在 Github Issue 板块反馈**
+**如果游戏中有任何问题，比如死机，缺字，翻译错误等问题可以在 Github Issue 板块反馈，或者发送邮件到 gs_report@outlook.com，反馈问题时最好能带上游戏的截图**
 
 **在开始之前：如果你是玩家的话，下面的链接包含了输入中文的转换工具，以及部分用于时钟重置的工具**
 
@@ -94,13 +94,42 @@
 - 有一个很奇怪的事情就是有的时候韩版「宝可梦金·银」不会记录连线对战胜负情况，我试了一下原版就这样，所以应该不是我汉化的问题。
 
 ## 关于中文输入和时钟重置
+- 很遗憾我的水平还不足以重新写一个新的中文输入法，但是韩文也是一种拼读文字，所以为了方便大家输入中文，我准备了一个网页可以把中文汉字转换成对应码表的拼写。链接在这个文档的最上方。为了方便大家识别，我把名称输入的Hangul的符号换成了英文。请注意这些英文并非和其他国际版互相兼容，仅仅是为了方便大家识别输入码所以才修改的。这些英文本质上还是韩语，所以无法用它拼写出所有的英文单词。
+
+- 时钟重置已经有其他人写过了，在中文转换工具的页面也有记载。这里就提示一下韩版的时钟重置方法：
+	-  在标题画面同时按下下方向键、SELECT键和B键。
+	- 按住SELECT键不放，并松开下方向键和B键。
+	- 仍然按住SELECT键不放，并同时按下左方向键和上方向键。
+	- 松开SELECT键，然后松开左方向键和上方向键。
+
+## 关于补丁的使用范围
+
+- 本项目仅提供 ips 补丁。打上补丁之后原版会变成汉化版。
+
+- 关于原版 ROM 文件的信息：
+	
+	- 「宝可梦·金」：Pocket Monsters Geum (Korea).gbc
+		- MD5: 82bd1d9171e60f147d9eeea13ef07a12
+		- SHA-256：9c273e86e6120c6a038160ccb0153b8b20425b84fc08a496281c1d1bcac492f6
+	- 「宝可梦·银」：Pocket Monsters Eun (Korea).gbc
+		- MD5：f5e14b069eaddee42735572bd23f7ef8
+		- SHA-256：ebbac63c0c4309c82dbb6723e7163369784f962b4fd3e2f486075307c3008a22
+
+## 使用警告
+- 本游戏版权归原制作商所有。本汉化仅供汉化研究之用。
+
+- 请购买正版卡带或于 eShop 购买 Virtual Console 版本进行游戏。
+
+- 禁止用于任何商业目的，尤其禁止上传至收费群及网赚网盘。
+
+- 请在转载时保证文档完整性。
 
 ## 鸣谢
-- 任天堂、Game Freak、Creatures、The Pokemon Company
+- [任天堂](https://www.nintendo.co.jp)、[Game Freak](https://www.gamefreak.co.jp)、[Creatures](https://www.creatures.co.jp/)、[The Pokemon Company](https://corporate.pokemon.co.jp)
 
-- 「精灵宝可梦·水晶」汉化版 By CKN & 口袋群星汉化组
+- [「精灵宝可梦·水晶」汉化版 By CKN & DMG & 口袋群星](https://www.bilibili.com/read/cv8590513) [项目地址](https://github.com/SnDream/pokecrystal_cn) 
 
--  Sn Dream 提取的 iQue 8*11 字体	
+-  [Dream Sn 提取的 iQue 8*11 字体](https://zhuanlan.zhihu.com/p/175557189)
 
 - 占位符： 是 TA 主动热心的联系了我帮我做校对文本的工作 	
 
