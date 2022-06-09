@@ -62,6 +62,8 @@
 ## 不完美的内容 / 我无能为力的内容
 这一块儿如果有谁可以帮助到我，我真的会非常感谢。我的水平实在是有限。
 
+- 图鉴排序：韩语排序模式将会按照韩语字符的顺序排列，功能可以正常使用，文字不会错乱，但是顺序对中文来说没有任何意义。
+
 - 获得全图鉴的奖状字样：这个很骚，因为就算是把压缩的图片解压出来，它居然利用了韩语文字拼读的特性重复利用了多个 Tile，这个不改程序的话就无能为力。
 
 
@@ -144,5 +146,6 @@
 
 -  [Dream Sn 提取的 iQue 8*11 字体](https://zhuanlan.zhihu.com/p/175557189)
 
+- [神奇宝贝百科](https://wiki.52poke.com/) [Bulbapedia](bulbapedia.bulbagarden.net) [포켓몬 위키](https://pokemon.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8) [tcrf.net](https://tcrf.net/Pokémon_Gold_and_Silver)
 - LATE_MAJORITY： 是 TA 主动热心的联系了我帮我做校对文本的工作 	
 
