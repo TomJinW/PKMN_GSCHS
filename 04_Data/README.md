@@ -1,2 +1,3 @@
-# PKMN_GSCHS
-Gen II Pokemon Gold &amp; Silver Simp. Chinese ROM Translation based on the Korean Versions of Pokemon Gold &amp; Silver
+# 一些数据
+
+- 包含了包括码表在内的一些杂项。可以用 Numbers 或者 Excel 打开。
