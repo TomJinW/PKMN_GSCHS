@@ -85,6 +85,3 @@ E9=and
 0AFB=_MORNING
 0AFC=_DAY
 0AFD=_NIGHT
-
-
-
