@@ -1,0 +1,41 @@
+月亮球：
+0xED19: 0A->08
+甜蜜球：
+0xED6B: C0->C8
+速度球：
+0xED92: 0A->F3
+名人堂修正：
+0x866A5: C9->C8
+
+HP动画修正：0xD71E
+7B C1 D1 E1
+
+状态捕获率修正：
+KOR ORIGINAL 0xE9DA
+ld b, a                     47
+ld a, [WildPokemonStatus]   FA BA D1
+and SLP|FRZ                 E6 27
+ld c, 10                    0E 0A
+jr nz, .done                20 07
+and a                       A7
+ld c, 5                     0E 05
+jr nz, .done                20 02
+ld c, 0                     0E 00
+KOR FIXED 0xE9DA
+ld b, a                     47
+ld a, [WildPokemonStatus]   FA BA D1
+and a                       A7
+ld c, 0                     0E 00
+jr z, .done                 28 08
+and SLP|FRZ                 E6 27
+ld c, 10                    0E 0A
+jr nz, .done                20 02
+ld c, 5                     0E 05
+
+名人堂相关：0x866A5
+push hl                             E5
+call ClearBGPalettes                CD B6 34
+pop hl                              E1
+call DisplayHOFMon                  CD 35 67
+ld a, [wHallOfFameTempWinCount]     FA 08 C5
+cp HOF_MASTER_COUNT + 1             FE C9
