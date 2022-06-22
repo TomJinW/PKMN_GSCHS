@@ -18,8 +18,8 @@
 ## 如何使用补丁
 - 在 Github 上面的 Release 板块下面下载补丁并解压。
 - 前往 [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/) 在网页上打补丁。
-- 或者使用第三方工具比如 MultiPatch 等对 ROM 使用 ips 补丁。
-- 
+- 或者使用第三方工具比如 MultiPatch 等对原版 ROM 使用 ips 补丁。原版ROM现在网上Google上很好找的，我就不提示过多了。补丁的话有适用于韩版的和美版的补丁。
+
 ## 关于准汉化版
 - 这个版本会成为第一个长期保留不会做太多进一步修改的版本，除非出现了严重的死机问题。但是所有其他小的问题反馈我仍会持续收集。
 - 如何区别v0.93：在游戏的设置页面的左下方会有多出来的v094字样就是新版。
