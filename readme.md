@@ -6,7 +6,7 @@
 
 [https://tomjinw.github.io/convert/](https://tomjinw.github.io/convert/)
 
-![Pokemon Gold / Silver](img000.jpg "Pokemon Gold / Silver")
+![Pokemon Gold / Silver](./img000.jpg "Pokemon Gold / Silver")
 ## 总结
 
 **「宝可梦金·银」**作为本人的入门宝可梦系列，它真的给我带了很多愉快的回忆。我至今都记得还是小朋友我每天一写完作业就会打开GBA SP，踏上这个奇幻的冒险之旅。
