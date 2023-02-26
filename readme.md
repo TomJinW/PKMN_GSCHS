@@ -1,4 +1,4 @@
-# 宝可梦·金 / 宝可梦·银 中文v1.1准汉化版 by Tom_C
+# 宝可梦·金 / 宝可梦·银 中文v1.1汉化版 by Tom_C
 
 [简体中文](./readme.md)
 [English](./readme_en.md)
