@@ -134,13 +134,15 @@
 	|:-----:|:----:|:----:|:----:|
 	| ❌不兼容 | ❌不兼容 | ❌不兼容 | ❌不兼容 |
 	- 因为原韩版使用额外 VRAM 显示韩文，以及使用 GBC 8Mhz CPU 主频驱动文本显示，**本汉化版无法支持黑白 Game Boy 机型。敬请见谅，目前不论是工作量还是技术难度都不允许我另行制作黑白机版本。**
-	- 彩机兼容性：
+	
+- 彩机兼容性：
 		
 	|Game Boy Color|Game Boy Advance (SP)|Super Game Boy 2|Game Boy Player|Game Boy Micro|
 	|:-----:|:----:|:----:|:----:|:----:|
 	| ✅兼容 | ✅兼容 | ✅兼容 | ✅兼容 | ❌不兼容 |
-- 原韩版「宝可梦 金·银」是 Game Boy Color 专属游戏。本汉化版仅能在上述环境下游玩。
-- Game Boy Micro 不兼容 Game Boy 和 Game Boy Color 游戏。
+
+	- 原韩版「宝可梦 金·银」是 Game Boy Color 专属游戏。本汉化版仅能在上述环境下游玩。
+	- Game Boy Micro 不兼容 Game Boy 和 Game Boy Color 游戏。
 
 
 <br>
