@@ -1,0 +1,5 @@
+*.gbc
+*.rtc
+*.sav
+*.ini
+.DS_Store
