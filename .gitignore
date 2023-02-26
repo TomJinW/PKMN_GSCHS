@@ -4,3 +4,6 @@
 *.ini
 .DS_Store
 *.ips
+cias/*
+*.cia
+*.zip

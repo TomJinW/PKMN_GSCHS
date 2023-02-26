@@ -1,7 +1,6 @@
-# 宝可梦·金 / 宝可梦·银 中文v1.1汉化版 by Tom_C
+# 宝可梦·金/银 中文v1.1汉化版 by Tom_C
 
-[简体中文](./readme.md)
-[English](./readme_en.md)
+
 
 **如果游戏中有任何问题，比如死机，缺字，翻译错误等问题可以在 Github Issue 板块反馈，或者发送邮件到 gs_report@outlook.com，反馈问题时最好能带上游戏的截图**
 
@@ -201,8 +200,8 @@
 	|:---:|:----:|:----:|:----:|:----:|
 	|韩版套壳|金|0004000000173500|将 ROM 重命名为 CGBAAUK0.959 <br>并替换 cia 解包后同名文件|无需任何改动|
 	|韩版套壳|银|0004000000173600|将 ROM 重命名为 CGBAAXK0.960 <br>并替换 cia 解包后同名文件|无需任何改动|
-	|韩版套壳|金|0004000000172600|将 ROM 重命名为 DMGAAUP0.J56 <br>并替换 cia 解包后同名文件|删除解包后的DMGAAUP0.J56.patch<br>将 CGBAAUK0.959.patch<br>重命名为<br>DMGAAUP0.J56.patch|
-	|韩版套壳|银|0004000000172700|将 ROM 重命名为 DMGAAXP0.J57 <br>并替换 cia 解包后同名文件|删除解包后的DMGAAXP0.J57.patch<br>将 CGBAAXK0.960.patch <br>重命名为<br> DMGAAXP0.J57.patch|
+	|美版套壳|金|0004000000172600|将 ROM 重命名为 DMGAAUP0.J56 <br>并替换 cia 解包后同名文件|删除解包后的DMGAAUP0.J56.patch<br>将 CGBAAUK0.959.patch<br>重命名为<br>DMGAAUP0.J56.patch|
+	|美版套壳|银|0004000000172700|将 ROM 重命名为 DMGAAXP0.J57 <br>并替换 cia 解包后同名文件|删除解包后的DMGAAXP0.J57.patch<br>将 CGBAAXK0.960.patch <br>重命名为<br> DMGAAXP0.J57.patch|
 <br>
 
 - 不同区域的套壳 3DS VC 在搜索房间时会有兼容限制，如果套壳区域不对应的话，在搜索房间时会无法搜索到对方。此外「宝可梦虚拟银行」也对 3DS VC 套壳的地区版本有要求，要求如下：
