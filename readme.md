@@ -18,7 +18,8 @@
 ## 如何使用补丁
 - 在 Github 上面的 Release 板块下面下载补丁并解压。
 - 前往 [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/) 在网页上打补丁。
-- 或者使用第三方工具比如 MultiPatch 等对原版 ROM 使用 ips 补丁。原版ROM现在网上Google上很好找的，我就不提示过多了。补丁的话有适用于韩版的和美版的补丁。
+- 或者使用第三方工具比如 MultiPatch 等对 ROM 使用 ips 补丁。
+- 新添加了可以对美版英文版游戏使用的补丁。ForKOR 文件夹下内容为韩版补丁，ForUSA文件夹下为美版补丁。**虽然提供了美版补丁，但是打完之后仍旧是韩版汉化，不支持黑白 Game Boy**
 
 ## 关于汉化版 v1.1
 - 这个版本相对于1.0版，修复了一些关键的流程Bug，建议所有玩家都更新到最新版。旧版汉化版/韩版的存档可以无缝继承到新版本中。
@@ -27,7 +28,7 @@
 
 
 
-## 2022.03.15 v1.1 相比v1.0更新内容
+## 2022.02.27 v1.1 相比v1.0更新内容
 ### 死机和流程问题修复
 - 修正「宝可梦·金」里，包括满金市美容兄弟在內的部分剧情可能无法触发的问题。**这个 Bug 属于 ROM 数据错误的问题，性质较严重，建议现有玩家马上更新。**
 - 修正当捕捉新宝可梦，即将录入宝可梦图鉴时，录入图鉴音效未能正确播放的问题。
@@ -227,42 +228,18 @@
 - 1：无法与「宝可梦竞技场2」联动，但是可以将宝可梦传送至英文版Gen II游戏，或者CKN汉化版水晶，然后再用那些游戏与「宝可梦竞技场2」联动。「木箱」「桐木箱」的获得方式也需要通过其他版本和「宝可梦竞技场2」联动后，再将道具传回到韩版/本汉化版。
 
 
-
-	
-	
-
-
-
-
-
-
-	
-## 如何使用补丁
-- 在 Github 上面的 Release 板块下面下载补丁并解压。
-- 前往 [https://www.marcrobledo.com/RomPatcher.js/](https://www.marcrobledo.com/RomPatcher.js/) 在网页上打补丁。
-- 或者使用第三方工具比如 MultiPatch 等对 ROM 使用 ips 补丁。
-- 新添加了可以对美版英文版游戏使用的补丁。ForKOR 文件夹下内容为韩版补丁，ForUSA文件夹下为美版补丁。**虽然提供了美版补丁，但是打完之后仍旧是韩版汉化，不支持黑白 Game Boy**
-
 ## 关于补丁的使用范围
 
 - 本项目仅提供 ips 补丁。打上补丁之后原版会变成汉化版。
 
-
 - 关于原版 ROM 文件的信息：
-	- 韩版：
-		- 「宝可梦·金」：Pocket Monsters Geum (Korea).gbc
-			- MD5: 82bd1d9171e60f147d9eeea13ef07a12
-			- SHA-256：9c273e86e6120c6a038160ccb0153b8b20425b84fc08a496281c1d1bcac492f6
-		- 「宝可梦·银」：Pocket Monsters Eun (Korea).gbc
-			- MD5：f5e14b069eaddee42735572bd23f7ef8
-			- SHA-256：ebbac63c0c4309c82dbb6723e7163369784f962b4fd3e2f486075307c3008a22
-	- 美版：
-		- 「宝可梦·金」：Pokemon - Gold Version (UE) [C][!].gbc
-			- MD5: a6924ce1f9ad2228e1c6580779b23878
-			- SHA-256：fb0016d27b1e5374e1ec9fcad60e6628d8646103b5313ca683417f52b97e7e4e
-		- 「宝可梦·银」：Pokemon - Silver Version (UE) [C][!].gbc
-			- MD5：2ac166169354e84d0e2d7cf4cb40b312
-			- SHA-256：72b190859a59623cbef6c49d601f8de52c1d2331b4f08a8d2acc17274fc19a8c
+
+|韩版|金：Pocket Monsters Geum (Korea).gbc|银：Pocket Monsters Eun (Korea).gbc|
+|:---:|:----:|:----:|
+|MD5| 82bd1d9171e60f147d9eeea13ef07a12 | f5e14b069eaddee42735572bd23f7ef8|
+|**美版**|**金：Pokemon - Gold Version (UE) [C][!].gbc**|**银：Pokemon - Silver Version (UE) [C][!].gbc**|
+|MD5| a6924ce1f9ad2228e1c6580779b23878 | 2ac166169354e84d0e2d7cf4cb40b312 |
+
 
 ## 程序修正参考
 - [月亮球、速度球、甜蜜球](https://www.romhacking.net/forum/index.php?topic=18775.0)
