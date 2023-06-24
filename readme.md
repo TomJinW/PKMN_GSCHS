@@ -143,7 +143,7 @@
 	
 - 彩机兼容性：
 		
-	|Game Boy Color|Game Boy Advance (SP)|Game Boy Player|Game Boy Micro / Nintendo DS (Lite)|
+	|Game Boy Color|Game Boy Advance (SP)|Game Boy Player|Game Boy Micro|
 	|:-----:|:----:|:----:|:----:|
 	| ✅兼容 | ✅兼容 | ✅兼容 | ❌不兼容 |
 
