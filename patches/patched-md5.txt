@@ -1,0 +1,2 @@
+MD5 (roms/pokegoldchs.gbc) = d7b455b1b7106c3a4d9c064da9465853
+MD5 (roms/pokesilverchs.gbc) = 6349897fcb5311c96beaa94938d59ce0
