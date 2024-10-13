@@ -27,7 +27,8 @@
 #### 字体更改
 - 将字体更改为 [MuzaiPixel 2.0](https://diaowinner.itch.io/muzaipixel)，以提供更好的可读性。除此以外和 v1.2.0 没任何区别。
 - 在游戏的设置页面的左下方版本号改为v121
-![avatar](./img/img001.JPG)
+![avatar](./img/img001.png)
+- 该版本没有做过严格测试。请知悉。
 
 ### 2023.12.22 v1.2.0 相比v1.1.1更新内容
 
