@@ -1,6 +1,12 @@
 # 宝可梦·金/银 中文 v1.2 汉化版 by Tom_C
 
+## **注意：新版美版汉化版在这里（右侧为美版汉化）：**
 
+[https://github.com/TomJinW/pokegoldCHS](https://github.com/TomJinW/pokegoldCHS)
+
+![avatar](./img/img002.JPG)
+
+## 如何反馈
 
 **如果游戏中有任何问题，比如死机，缺字，翻译错误等问题可以在 Github Issue 板块反馈，或者发送邮件到 gs_report@outlook.com，反馈问题时最好能带上游戏的截图**
 
