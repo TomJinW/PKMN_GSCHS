@@ -3,7 +3,7 @@
 [简体中文](./readme.md)
 [English](./readme_en.md)
 
-**If you have any problems in the game, such as frezzing, crashing, missing characthers or translation error, please start an issue on Github or send an email to gs_report@outlook.com. It would be recommended to attach the screenshot of the game to better explain what happened.**
+**If you have any problems in the game, such as frezzing, crashing, missing characthers or translation error, please start an issue on Github. It would be recommended to attach the screenshot of the game to better explain what happened.**
 
 **The link below includes a tool for typing Chinese in the game and a tool for resetting the in-game clock**
 
